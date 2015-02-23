@@ -1,0 +1,22 @@
+{
+  "name": "laravel-elixir-modernizr",
+  "version": "1.0.0",
+  "description": "Scan your resources and generate a custom Modernizr build for your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "modernizr"
+  ],
+  "author": "Waldemar Figueroa <walde.fm@gmail.com> (http://nobox.com)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-uglify": "^1.1.0",
+    "underscore": "^1.8.1"
+  }
+}
