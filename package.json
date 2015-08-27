@@ -1,7 +1,7 @@
 {
   "name": "laravel-elixir-modernizr",
   "description": "Scan your resources and generate a custom Modernizr build for your app.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Waldemar Figueroa",
     "email": "walde.fm@gmail.com"
