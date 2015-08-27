@@ -1,6 +1,6 @@
 # Laravel Elixir Modernizr
 
-Laravel Elixir extension that uses [gulp-modernizr](https://github.com/doctyper/gulp-modernizr)
+Laravel Elixir **3.0+** extension that uses [gulp-modernizr](https://github.com/doctyper/gulp-modernizr)
 to crawl your app and build a custom [Modernizr](http://modernizr.com/) file with only the tests
 you're actually using.
 
