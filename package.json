@@ -1,7 +1,7 @@
 {
   "name": "laravel-elixir-modernizr",
   "description": "Scan your resources and generate a custom Modernizr build for your app.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": {
     "name": "Waldemar Figueroa",
     "email": "walde.fm@gmail.com"
@@ -23,7 +23,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "laravel-elixir": "^4.0.0"
+    "laravel-elixir": "^5.0.0"
   },
   "repository": {
     "type": "git",
